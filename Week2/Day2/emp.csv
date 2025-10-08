@@ -1,0 +1,11 @@
+name,dept,salary
+Alice,HR,55000
+Bob,Engineering,70000
+Charlie,HR,
+Diana,Engineering,72000
+Eve,Marketing,60000
+Frank,,58000
+Grace,Marketing,61000
+Heidi,Engineering,
+Ivan,HR,53000
+Judy,Marketing,62000
